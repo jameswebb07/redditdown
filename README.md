@@ -1,5 +1,6 @@
-# redditdown
+# Redditdown
 Reddit Downloader / Archive
 
-run down_user_local.py for user 
-run down_sub_local.py for subreddit
+Run down_user_local.py for the User 
+
+Run down_sub_local.py for the Subreddit
